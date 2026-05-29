@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercerify",
+        "uuid": 115848,
+        "checksum": "u2pgy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
